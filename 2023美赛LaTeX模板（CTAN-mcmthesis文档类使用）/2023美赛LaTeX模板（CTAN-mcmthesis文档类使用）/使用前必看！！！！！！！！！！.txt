@@ -1,0 +1,19 @@
+原版模板为6.2.2版本，老版抬头，供参考学习（原版与解压后版本）
+直接版本中替换为最新的6.3.1版本，可以正常使用
+
+模板来源 https://liam.page/2016/01/27/how-to-use-mcmthesis/
+
+模板的官方主页是：http://www.ctan.org/pkg/mcmthesis
+模板的开发主页是：http://github.com/Liam0205/mcmthesis
+原作者王昭礼的主页是：http://www.latexstudio.net
+模板现在作者主页是：https://liam.page
+
+这是CTAN包含的美赛的文档类，由多位大佬制作、维护
+
+原模板下载后需要解压，方便起见，提供了一个解压好的版本，同时，解压后目录很麻烦
+再提供一个直接版本
+
+解压方式见上方链接-模板开发主页
+
+B站 lvqaq 整理
+
